@@ -10,7 +10,12 @@ namespace Chuong1_Bai2
     {
         static void Main(string[] args)
         {
-            
+            Console.Write("Nhập số nguyên dương n: ");
+            int n_332 = int.Parse(Console.ReadLine());
+
+            Console.Write($"Các ước số của {n_332} là: ");
+            LietKeUocSo(n_332);
+            Console.ReadKey();
         }
 
         public static void LietKeUocSo(int n_332)
