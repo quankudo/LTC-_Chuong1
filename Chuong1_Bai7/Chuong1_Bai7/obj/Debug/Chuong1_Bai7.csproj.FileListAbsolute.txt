@@ -1,0 +1,7 @@
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\bin\Debug\Chuong1_Bai7.exe.config
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\bin\Debug\Chuong1_Bai7.exe
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\bin\Debug\Chuong1_Bai7.pdb
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\obj\Debug\Chuong1_Bai7.csproj.AssemblyReference.cache
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\obj\Debug\Chuong1_Bai7.csproj.CoreCompileInputs.cache
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\obj\Debug\Chuong1_Bai7.exe
+E:\IT-Nam3\LTC#\Chuong1\LTC-_Chuong1\Chuong1_Bai7\Chuong1_Bai7\obj\Debug\Chuong1_Bai7.pdb
