@@ -11,7 +11,10 @@ namespace Chuong1_Bai1
     {
         static void Main(string[] args)
         {
-            
+            Console.Write("Nhap n: ");
+            int n_332 = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Tong S({n_332}) = {TinhTong(n_332)}");
+            Console.ReadKey();
         }
 
         public static int TinhTong(int n_332)
