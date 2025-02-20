@@ -10,7 +10,12 @@ namespace Chuong1_Bai3
     {
         static void Main(string[] args)
         {
-            
+            Console.Write("Nhập số nguyên dương n: ");
+            int n_332 = int.Parse(Console.ReadLine());
+
+            int sum_332 = TinhTongUocSo(n_332);
+            Console.WriteLine($"Tổng các ước số của {n_332} là: {sum_332}");
+            Console.ReadKey();
         }
 
         public static int TinhTongUocSo(int n_332)
